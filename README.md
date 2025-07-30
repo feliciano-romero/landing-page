@@ -1,2 +1,2 @@
-# landing-page
-A landing page made with HTML and CSS
+# PERSONAL SITE
+> A landing page made with HTML, CSS and JS too!
