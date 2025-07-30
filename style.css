@@ -295,6 +295,18 @@ section {
         background-color: #424564c1;
     }
 
+    #menu-icon {
+        z-index: 200;
+    }
+
+    .navlist.open {
+        right: 0;
+    }
+
+    #nav-middle {
+        height: 60vh;
+    }
+
     #mobile-icons {
         width: 100px;
         display: flex;
@@ -307,10 +319,6 @@ section {
         margin: 0;
         padding: 0;
         font-size: 24px;
-    }
-
-    #menu-toggle:checked+label.menu-icon-action+ul {
-        right: 0;
     }
 
     .hero-image img:hover {
